@@ -2,13 +2,23 @@
 title: false
 styles: true
 ---
-h1 {
+heading {
   color: red;
   text-align: left;
 }
-p{
+body {
   color: red;
   text-align: center;
+
+}
+
+headingColour {
+  color: red
+
+}
+
+bodyColour {
+color: blue
 
 }
 
