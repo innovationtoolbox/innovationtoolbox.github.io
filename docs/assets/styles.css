@@ -7,13 +7,13 @@ heading {
   text-align: left;
 }
 body {
-  color: red;
+  color: red !important;
   text-align: center;
 
 }
 
 h1{
-  color: red !important;  
+  color: red !important;
 }
 
 headingColour {
