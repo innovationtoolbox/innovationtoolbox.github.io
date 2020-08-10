@@ -4,7 +4,14 @@ styles: true
 ---
 h1 {
   color: red;
-  text-align: left;  
+  text-align: left;
 }
 
+
 @import "alembic";
+
+p{
+  color: red;
+  text-align: center;
+
+}
