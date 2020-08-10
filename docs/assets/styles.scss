@@ -29,7 +29,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Arial, serif",
+  font-family: "Arial, sans-serif",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -37,7 +37,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Verdana", serif',
+  font-family: '"Verdana", sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
