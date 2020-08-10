@@ -6,12 +6,11 @@ h1 {
   color: red;
   text-align: left;
 }
-
-
-@import "alembic";
-
 p{
   color: red;
   text-align: center;
 
 }
+
+
+@import "alembic";
