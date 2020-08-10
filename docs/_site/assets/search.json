@@ -1,0 +1,33 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Welcome to Jekyll!",
+        "excerpt": "I’m Dave and I administer this site like the great guy I am.\n\n",
+        "content": "I’m Dave and I administer this site like the great guy I am.\n\nYou’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\nJekyll requires blog post files to be named according to the following format:\n\nYEAR-MONTH-DAY-title.MARKUP\n\nWhere YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.\n\nJekyll also offers powerful support for code snippets:\n\ndef print_hi(name)\n  puts \"Hi, #{name}\"\nend\nprint_hi('Tom')\n#=&gt; prints 'Hi, Tom' to STDOUT.\n\nCheck out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.\n\n",
+        "url": "/jekyll/update/2020/08/10/welcome-to-jekyll.html"
+      },
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "\n",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com\n\nYou can find the source code for Minima at GitHub:\njekyll /\nminima\n\nYou can find the source code for Jekyll at GitHub:\njekyll /\njekyll\n\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Home",
+    "excerpt": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.\n",
+    "content": "Here’s a bunch of text\n\nFeatures\n\n\n  Available as a theme gem and GitHub Pages theme\n  Simple and elegant design that can be used out of the box or as solid starting point\n  Tested in all major browsers, including IE and Edge\n  Built in Service Worker so it can work offline and on slow connections\n  Configurable colours and typography in a single settings file\n  Extensive set of shortcodes to include various elements; such as buttons, icons, figure images and more\n  Solid typographic framework from Sassline\n  Configurable navigation via a single file\n  Modular Jekyll components\n  Post category support in the form of a single post index page grouped by category\n  Built in live search using JavaScript\n  Contact form built in using Formspree\n  Designed with Siteleaf in mind\n  Has 9 of the most popular networks as performant sharing buttons\n  Has documentation\n\n",
+    "url": "/"
+  }
+  
+]
+
