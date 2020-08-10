@@ -2,15 +2,16 @@
 title: false
 styles: true
 ---
-@charset "utf-8";
-@import "colours";
-@import "normalize";
-@import "sassline-base";
-@import "syntax";
-@import "flex";
-@import "tag";
+//@charset "utf-8";
+//@import "colours";
+//@import "normalize";
+//@import "sassline-base";
+//@import "syntax";
+//@import "flex";
+//@import "tag";
 
-$linkColour: #CF8D27;
+//$linkColour: #CF8D27;
 
-
+$linkColour: #004285;
+$headingColour: #82560C;
 //@import "alembic";
