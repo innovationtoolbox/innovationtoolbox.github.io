@@ -11,7 +11,7 @@ layout: page
 ---
 Here's a bunch of text
 
-## Features
+# Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Simple and elegant design that can be used out of the box or as solid starting point
