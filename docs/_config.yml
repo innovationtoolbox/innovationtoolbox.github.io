@@ -35,6 +35,7 @@ remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyl-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -11,16 +11,45 @@ styles: true
 
 //$linkColour: #CF8D27;
 
-$linkColour: #004285;
-$headingColour: #82560C;
+//testing more stuff
+// Background colours
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #FFBB4A !default;
 
-body {
-  background: $headingColour;
-  color: $linkColour;
-  height: 100%;
-  display: flex;
-  @include flex-direction(column);
-  overflow-x: hidden;
-}
+// Text colours
+$headingColour: #82560C !default;
+$bodyColour: #004285 !default;
+$linkColour: #FFBB4A !default;
+$hoverColour: #FFBB4A !default;
+$focusColour: #82560C !default;
+$captionColour: #82560C !default;
+$white: #ffffff !default;
+
+// Typography
+$bodytype: (
+  font-family: "Georgia, serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Verdana", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+// Font import, if you're using a non-standard web font
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
 
 @import "alembic";
