@@ -1,5 +1,4 @@
 ---
-title: false
 styles: true
 ---
 //@charset "utf-8";
@@ -15,5 +14,13 @@ styles: true
 $linkColour: #004285;
 $headingColour: #82560C;
 
+body {
+  background: $headingColour;
+  color: $linkColour;
+  height: 100%;
+  display: flex;
+  @include flex-direction(column);
+  overflow-x: hidden;
+}
 
 @import "alembic";
