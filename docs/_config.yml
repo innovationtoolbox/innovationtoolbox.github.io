@@ -46,6 +46,9 @@ plugins:
   - jekyll-include-cache
   - jemoji
 
+# Design
+logo: "/assets/logo/toolbox-logo.jpg"
+
 # 9. Site navigation
 navigation_header:
 - title: Home
@@ -69,12 +72,14 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/davehenryjones
   LinkedIn: https://www.linkedin.com/in/davehenryjones
   GitHub: https://github.com/davehenryjones
-  link: https://davehenryjones
+  link: https://davehenryjones.com
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
   facebook: "#3B5998"
   Email: true
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
