@@ -46,6 +46,29 @@ plugins:
   - jekyll-include-cache
   - jemoji
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+      image: "/assets/logo/toolbox-logo.jpg" # Default image for sharing
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+  - scope:
+      path: ""
+      type: tag
+    values:
+      layout: tag
+collections:
+  tag:
+      output: true
+
 # Design
 logo: "/assets/logo/toolbox-logo.jpg"
 

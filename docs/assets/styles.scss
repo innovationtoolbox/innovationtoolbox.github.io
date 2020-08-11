@@ -29,6 +29,14 @@ styles: true
 
 @import "theme";
 
+.logo {
+  display: inline-block;
+  line-height: 0;
+  img {
+    height: 3rem;
+  }
+}
+
 // Typography
 $bodytype: (
   font-family: "Arial, sans-serif",
