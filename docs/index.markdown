@@ -4,7 +4,7 @@
 title: Home
 feature_text: |
   <h1 style="color:#ffffff; text-shadow: -0.5px -0.5px 2px #2C3842;">Innovation Toolbox</h1>
-  <h4 style="color:#ffffff"; text-shadow: -0.5px -0.5px 2px #2C3842;">A toolbox for innovators of all kinds, everywhere.</h4>
+  <p style="color:#ffffff; text-shadow: -0.5px -0.5px 2px #2C3842;">A toolbox for innovators of all kinds, everywhere.</p>
 feature_image: "https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 layout: page
