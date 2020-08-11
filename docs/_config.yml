@@ -36,6 +36,45 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyl-seo-tag
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+#- title: Blog
+  #url: /blog/
+- title: Toolbox
+  url: /categories/
+- title: Search
+  url: /search/
+#- title: Fork Alembic
+  #url: https://github.com/daviddarnes/alembic
+
+navigation_footer:
+- title: Created by Dave Jones
+  url: https://davehenryjones.com
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/davehenryjones
+  LinkedIn: https://www.linkedin.com/in/davehenryjones
+  GitHub: https://github.com/davehenryjones
+  link: https://davehenryjones
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
