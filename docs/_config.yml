@@ -55,7 +55,7 @@ navigation_header:
 #- title: Blog
   #url: /blog/
 - title: Toolbox
-  url: /categories/
+  url: /toolbox/
 - title: Search
   url: /search/
 #- title: Fork Alembic
